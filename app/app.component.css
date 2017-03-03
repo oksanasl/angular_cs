@@ -1,4 +1,13 @@
-.jumbotron .glyphicon {
-    font-size: 80px;
-    color: red;
+body{
+    color: dimgray;
+}
+h1{
+    color: deeppink;
+}
+button{
+    color: white;
+    background-color: deeppink;
+}
+p{
+    font-size: 16px;
 }
